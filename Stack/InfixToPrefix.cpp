@@ -1,4 +1,4 @@
-// C++ program: Infix to postfix
+// C++ program: Infix to prefix
 
 #include <iostream>
 #include <ctype.h>
