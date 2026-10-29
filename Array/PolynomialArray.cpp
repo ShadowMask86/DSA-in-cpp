@@ -1,6 +1,5 @@
 // Write a C++ program to represent a polynomial using an array and display the polynomial.
 
-
 #include <iostream>
 using namespace std;
 
