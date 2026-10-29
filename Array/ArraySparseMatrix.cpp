@@ -1,6 +1,5 @@
 // Write a C++ program to represent a sparse matrix using an array by storing only its non-zero elements and display the representation.
 
-
 #include <iostream>
 using namespace std;
 
